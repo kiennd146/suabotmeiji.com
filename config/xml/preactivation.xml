@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<partners>
+<partner>
+	<name><![CDATA[yousticeresolutionsystem]]></name>
+	<module>yousticeresolutionsystem</module>
+	<checkconfiguration>
+		<key>YOUSTICERESOLUTIONSYSTEM_CONF_OK</key>
+	</checkconfiguration>
+	<logo><![CDATA[https://api.prestashop.com/partner/premium/images/youstice.png]]></logo>
+	<labels>
+		<label iso="en"><![CDATA[Stop scathing reviews. New app resolves customer complaints in minutes.]]></label>
+		<label iso="de"><![CDATA[Schlechte Bewertungen vermeiden. Diese App löst Kundenbeschwerden in Minuten.]]></label>
+	</labels>
+	<optionals>
+	</optionals>
+	<descriptions>
+	</descriptions>
+</partner>
+<partner>
+	<name><![CDATA[simplifycommerce]]></name>
+	<module>simplifycommerce</module>
+	<checkconfiguration>
+		<key>SIMPLIFYCOMMERCE_CONFIGURED</key>
+	</checkconfiguration>
+	<logo><![CDATA[https://api.prestashop.com/partner/premium/images/simplifycommerce.png]]></logo>
+	<labels>
+		<label iso="en"><![CDATA[Start accepting payments now. It’s that simple.]]></label>
+	</labels>
+	<optionals>
+	</optionals>
+	<descriptions>
+	</descriptions>
+</partner>
+
+</partners>
